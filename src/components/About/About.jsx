@@ -1,7 +1,7 @@
 import React from 'react';
 import { Typewriter } from 'react-simple-typewriter';
 import Tilt from 'react-parallax-tilt';
-import AnubhavPhoto from "../../assets/Anubhavphoto.jpg";
+import profileImage from '../../assets/anubhavphoto.jpg';
 const About=()=>{
     return(
        <section 
